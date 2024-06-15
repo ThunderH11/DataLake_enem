@@ -1,5 +1,6 @@
 # DataLake_enem
 <h1>Análise Comparativa do ENEM 2022 e 2023</h1>
+Equipe: Tânus Henrique, Italo Solto, Caua Romero, Bruno Marque e Caio Porto
 Descrição do Projeto
 Este projeto tem como objetivo realizar uma análise comparativa entre os dados do Exame Nacional do Ensino Médio (ENEM) dos anos de 2022 e 2023. A análise foca em diversos aspectos dos resultados, incluindo a comparação de notas, índices de presença no primeiro e segundo dia de provas, e a comparação de desempenho entre homens e mulheres nos dois anos.
 
